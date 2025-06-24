@@ -70,5 +70,10 @@ flashcards/
 - This project is licensed under the MIT License.
 - Feel free to use, modify, and share it.
 
+---
+
+## 🙌 Acknowledgments
+- Special thanks to the 100 Days of Code course by Angela Yu which inspired this project.
+
 ## Contact
 - tolgayilmaz1377@gmail.com
